@@ -41,5 +41,5 @@ dependencies {
     implementation 'com.android.support:recyclerview-v7:28.0.0'
     implementation(name: 'onsdk_all', ext: 'aar')
     implementation(name: 'NaviTts', ext: 'aar')
-    implementation files('libs/BaiduLBS_POI_Android.jar')
+    implementation files('libs/BaiduLBS_POI_BaseLoc_Calcu_Android.jar')
 }
