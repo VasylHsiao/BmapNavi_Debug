@@ -42,5 +42,5 @@ dependencies {
     implementation(name: 'onsdk_all', ext: 'aar')
     implementation(name: 'NaviTts', ext: 'aar')
     implementation files('libs/BaiduLBS_POI_BaseLoc_Calcu_Android.jar')
-    implementation(name: 'BaiduLBS_aar_android_V1.2.0_33554432', ext: 'aar')
+//    implementation(name: 'BaiduLBS_aar_android_V1.2.0_33554432', ext: 'aar')
 }

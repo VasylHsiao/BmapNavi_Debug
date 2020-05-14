@@ -11,6 +11,8 @@
 -keep class com.baidu.** { *; }
 -keep class mapsdkvi.com.** {*;}
 -keep interface com.baidu.** { *; }
+-keep class com.baidu.**$** { *; }
+-keep interface com.baidu.**$** { *; }
 
 -keep class vi.com.gdi.** { *; }
 
